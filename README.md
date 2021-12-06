@@ -27,7 +27,15 @@ The example notebooks show how to use LitMatter to scale model training for diff
 Note that these examples have additional dependencies beyond the core depdencies of LitMatter.
 
 ## References
-If you use LitMatter for your own research and scaling experiments, please cite the following work: INSERT ARXIV LINK  
+If you use LitMatter for your own research and scaling experiments, please cite the following work:
+```
+@inproceedings{frey2021scalable,
+  title={Scalable Geometric Deep Learning on Molecular Graphs},
+  author={Frey, Nathan C and Samsi, Siddharth and McDonald, Joseph and Li, Lin and Coley, Connor W and Gadepally, Vijay},
+  booktitle={NeurIPS 2021 AI for Science Workshop},
+  year={2021}
+}
+```
 
 Please also cite the relevant frameworks: [PyG](https://arxiv.org/abs/1903.02428), [PyTorch Distributed](https://arxiv.org/abs/2006.15704), [PyTorch Lightning](https://github.com/PyTorchLightning/pytorch-lightning),
 
