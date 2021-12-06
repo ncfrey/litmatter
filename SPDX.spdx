@@ -1,0 +1,6 @@
+SPDXVersion: SPDX-2.1
+PackageName: LitMatter
+PackageHomePage:https://github.com/ncfrey/litmatter
+PackageOriginator: MIT Lincoln Laboratory
+PackageCopyrightText: 2021 MASSACHUSETTS INSTITUTE OF TECHNOLOGY <tvo@ll.mit.edu>
+PackageLicenseDeclared: MIT
