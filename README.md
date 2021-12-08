@@ -28,6 +28,7 @@ Note that these examples have additional dependencies beyond the core depdencies
 
 ## References
 If you use LitMatter for your own research and scaling experiments, please cite the following work:
+[Frey, Nathan C., et al. "Scalable Geometric Deep Learning on Molecular Graphs." NeurIPS 2021 AI for Science Workshop. 2021.](https://arxiv.org/abs/2112.03364)
 ```
 @inproceedings{frey2021scalable,
   title={Scalable Geometric Deep Learning on Molecular Graphs},
