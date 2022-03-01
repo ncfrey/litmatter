@@ -46,6 +46,12 @@ and any extensions you use:
 ## Extensions
 When you're ready to upgrade to fully configurable, reproducible, and scalable workflows, use [hydra-zen](https://github.com/mit-ll-responsible-ai/hydra-zen). hydra-zen [integrates seamlessly](https://mit-ll-responsible-ai.github.io/hydra-zen/how_to/pytorch_lightning.html) with LitMatter to self-document ML experiments and orchestrate multiple training runs for extensive hyperparameter sweeps.
 
+## Environment
+Version management in Python is never fun and deep learning dependencies are always changing, but here are the latest tested versions of key dependencies for *LitMatter*
+* Python 3.8
+* Pytorch Lightning 1.5.1
+* Pytorch 1.10.0
+
 ## Disclaimer
 
 DISTRIBUTION STATEMENT A. Approved for public release. Distribution is unlimited. 
