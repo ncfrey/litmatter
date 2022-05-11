@@ -7,3 +7,6 @@ torch-spline-conv
 torchmetrics
 torchvision
 pytorch-lightning
+scipy
+numpy
+pandas
