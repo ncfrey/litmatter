@@ -27,7 +27,18 @@ The example notebooks show how to use LitMatter to scale model training for diff
 Note that these examples have additional dependencies beyond the core depdencies of LitMatter.
 
 ## References
-If you use LitMatter for your own research and scaling experiments, please cite the following work:
+If you use LitMatter for your own research and scaling experiments, please cite the following works:
+[Frey, Nathan C., et al. "Neural Scaling of Deep Chemical Models." __Nature Machine Intelligence_ (2023)](https://www.nature.com/articles/s42256-023-00740-3)
+```
+@article{frey2022neural,
+  title={Neural scaling of deep chemical models},
+  author={Frey, Nathan and Soklaski, Ryan and Axelrod, Simon and Samsi, Siddharth and Gomez-Bombarelli, Rafael and Coley, Connor and Gadepally, Vijay},
+  journal={Nature Machine Intelligence},
+  doi={10.1038/s42256-023-00740-3},
+  year={2023}
+}
+```
+
 [Frey, Nathan C., et al. "Scalable Geometric Deep Learning on Molecular Graphs." NeurIPS 2021 AI for Science Workshop. 2021.](https://arxiv.org/abs/2112.03364)
 ```
 @inproceedings{frey2021scalable,
